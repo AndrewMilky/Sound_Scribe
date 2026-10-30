@@ -1,0 +1,6 @@
+{
+  "name": "AudioScribe",
+  "description": "Bulk audio transcription with timestamped search, multi-format support, and CSV/PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
